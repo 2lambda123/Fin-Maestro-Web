@@ -15,7 +15,7 @@ transformers==4.38.0
 yahoofinancials==1.14
 yfinance
 gradio
-requests==2.31.0
+requests==2.32.0
 tensorflow
 scikit-learn
 lightgbm
